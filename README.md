@@ -43,7 +43,7 @@ default: 60
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Todd Hooper &lt;todd@prerender.io&gt & 2020 Görkem Öğüt &lt;gorkem@endeksa.com&gt;
+Copyright (c) 2018 Todd Hooper &lt;todd@prerender.io&gt; & 2020 Görkem Öğüt &lt;gorkem@endeksa.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
