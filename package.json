@@ -1,0 +1,12 @@
+{
+  "name": "prerender-fs-cache",
+  "version": "1.0.0",
+  "description": "File system cache for use with Prerender server",
+  "main": "index.js",
+  "author": "Görkem Öğüt",
+  "license": "MIT",
+  "dependencies": {
+    "cache-manager": "^2.6.0",
+    "cache-manager-fs": "^1.0.8"
+  }
+}
